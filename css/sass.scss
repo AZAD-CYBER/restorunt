@@ -1,0 +1,19 @@
+$background-dark: #512DA8;
+$background-light:rgb(220, 205, 235);
+$color1: #FFFAF0;
+
+
+.modal-header
+{
+  background-color:$background-dark;
+  color: #FFFAF0;
+}
+.close{
+  color: $color1;
+}
+.close:hover{
+ color: $color1;
+}
+.modal-body{
+  background-color:$background-light;
+}
